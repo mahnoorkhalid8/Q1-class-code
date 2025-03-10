@@ -1,0 +1,16 @@
+.portfolio{
+    width: 100px;
+    height: 100px;
+    background-color: chocolate;
+    border-radius: 100%;
+}
+.heading{
+    color: blueviolet;
+    width: 30px;
+    height: 40px;
+    font-size: large;
+}
+p{
+    background-color: chartreuse;
+    font-size: medium;   
+}
